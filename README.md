@@ -41,4 +41,4 @@ For Software:
 For Hardware (Simulated Only):
 
     Sensors & Actuators: Virtual sensors are used for movement, obstacle avoidance, and item detection.
-    Dog Model: A friendly dog avatar, because a guide dog must be adorable.
+    Dog Model: A friendly dog avatar, because a guide dog must be adorable
