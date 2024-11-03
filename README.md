@@ -95,5 +95,12 @@ Project Documentation
 
 For additional details, including node structure, software architecture, and use cases, see the README.md file and documentation within the repository.
 
+Team Contribution
+
+  Ashish Shajan - creation of dog urdf, launching in rviz and Gazebo
+  Muhammed Ajmal - World  creation in Gazebo
+  Tomin Michael - Integration of dog model in world
+
+
 
 
