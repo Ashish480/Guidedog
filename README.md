@@ -7,6 +7,8 @@ Team Innovox
     Member 2: Muhammed Ajmal - Saintgits
     Member 3: Tomin Michael - Saintgits
 
+video link: https://drive.google.com/file/d/1BxzbN-Y6MPgcBguPNBYAW49DyCUTYntQ/view?usp=drive_link
+
 Project Description
 Guide Dog in the Supermarket:
 
